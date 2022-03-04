@@ -1,0 +1,10 @@
+C:\Users\Danu\source\repos\SortingSLN\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Danu\source\repos\SortingSLN\Sorting\bin\Debug\Sorting.exe
+C:\Users\Danu\source\repos\SortingSLN\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Danu\source\repos\SortingSLN\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\Danu\source\repos\SortingSLN\Sorting\obj\Debug\Sorting.Form1.resources
+C:\Users\Danu\source\repos\SortingSLN\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Danu\source\repos\SortingSLN\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\Danu\source\repos\SortingSLN\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Danu\source\repos\SortingSLN\Sorting\obj\Debug\Sorting.exe
+C:\Users\Danu\source\repos\SortingSLN\Sorting\obj\Debug\Sorting.pdb
